@@ -1,0 +1,41 @@
+{
+	"details":{
+		"image":"download.jpg",
+		"Name":"Anjalica",
+		"Phoneno":"+91 1234567890",
+		"email":"angelwinx135@gmail.com",
+		"Address":"Lakshmi puram,Guntur"
+	},
+	"career":{
+		"Careerobj":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."},
+	"Edu":[{
+			"qualification":"B.Tech",
+			"institute":"VNITSW",
+			"yearofpassing":"2020",
+			"percentage":"8.8 CGPA"
+		},{
+			"qualification":"Intermediate",
+			"institute":"Narayana",
+			"yearofpassing":"2016",
+			"percentage":"92%"
+		},{
+			"qualification":"School",
+			"institute":"Bhashyam Blooms",
+			"yearofpassing":"2014",
+			"percentage":"10 CGPA"
+		}],
+	"skills":[{
+		"title":"Programming Languages",
+		"info":["Java","C","C++","R","Python"]
+		},{
+			"title":"Operating Systems",
+			"info":["Unix","Mac OS","Windows"]
+		},{
+			"title":"Databases",
+			"info":["SQL","Oracle","MySQL"]
+		}
+		],
+	"achievements":["Code Mania Event Participation","PPT on Kotlin Programming","Essay Writing"]
+
+
+}
